@@ -97,12 +97,21 @@
 ### 🤝 Soft Skills:
 🧠 Problem-Solving | 👥 Team Collaboration | 🗣 Communication
 
+### ☁️ Cloud Computing:
+<p>
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="50" height="50"/>
+  </a>
+</p>
+
+
 ## :zap: Skills
 - *Programming Languages:* Python, C, Java
 - *Telecommunications:* Signal processing, IoT, Embedded systems
+- *Cloud Computing:* Nhập môn AWS
 - *Tools:* MATLAB, Git, Arduino, Proteus, LTspice, FPGA, Linux, Synopsys, CCNA, Simplicity, VirtualBox
 - *Soft Skills:* 🧠 Problem-Solving | 👥 Team Collaboration | 🗣 Communication
----
+
 
 ### 📫 How to reach me? 
 <p align="center">
