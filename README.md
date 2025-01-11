@@ -136,7 +136,7 @@
   <a href="https://www.linkedin.com/in/aw-junaid" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="linkedin logo"  />
   </a>
-  <a href="https://dev.to/awjunaid" target="_blank">
+  <a href="https://dev.to/dinhthien-dt" target="_blank">
     <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="devto logo"  />
   </a>
   <a href="https://www.facebook.com/awjuna1d" target="_blank">
