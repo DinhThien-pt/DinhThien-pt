@@ -10,7 +10,7 @@
 
 <p align="center">
   <samp>
-    Hey, My name is <em>Thien Dinh Ho PhucPhuc</em>, and I am a final-year student in Telecommunications and Electronics at the University of Science, Ho Chi Minh City. I am deeply passionate about learning new technologies and building innovative solutions. 🚀
+    Hey, My name is <em>Thien Dinh Ho Phuc</em>, and I am a final-year student in Telecommunications and Electronics at the University of Science, Ho Chi Minh City. I am deeply passionate about learning new technologies and building innovative solutions. 🚀
   </samp>
   <br />
 </p>
