@@ -108,6 +108,13 @@
 - *Tools:* MATLAB, Git, Arduino, Proteus, LTspice, FPGA, Linux, Synopsys, CCNA, Simplicity, VirtualBox
 - *Soft Skills:* 🧠 Problem-Solving | 👥 Team Collaboration | 🗣 Communication
 
+## 🚀 Projects:
+| Project Name                        | Description                                                                      | Tools                                 | Completion Date |
+|-------------------------------------|----------------------------------------------------------------------------------|---------------------------------------|-----------------|
+| [**Electronics**](https://github.com/DinhThien-pt/HCMUS-ET-PRJ/tree/42ff744b5ef07896d9a44b1314c818a8fa68bd98/Electronics) | Projects involving the design and development of electronic circuits, systems, and devices. | Circuit simulators, Multimeters, Soldering tools | 2021 - 2025 |
+| [**Computer and Embedded Systems**](https://github.com/DinhThien-pt/HCMUS-ET-PRJ/tree/42ff744b5ef07896d9a44b1314c818a8fa68bd98/Computer%20and%20Embedded%20Systems) | Development of computer-based applications and embedded systems, focusing on microcontrollers and hardware integration. | C/C++, Microcontrollers, FPGA, IDEs   | 2021 - 2025 |
+| [**Telecommunications and Networks**](https://github.com/DinhThien-pt/HCMUS-ET-PRJ/tree/42ff744b5ef07896d9a44b1314c818a8fa68bd98/Telecommunications%20and%20Networks) | Involvement in designing, simulating, and analyzing communication networks and telecommunication systems. | Networking simulators, Protocol analyzers, Routers | 2021 - 2025 |
+
 
 ### 📫 How to reach me? 
 <p align="center">
