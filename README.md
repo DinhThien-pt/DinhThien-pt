@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Tuan Nguyen Ba
+# 👋 Hello, I'm Dinh Ho Phuc Thien
 
 <img src="https://github.com/tuan22th4/Images/blob/main/Sim_Corez.jpg" alt="Banner" width="600" height="300"/>
 
