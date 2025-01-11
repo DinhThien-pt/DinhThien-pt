@@ -127,7 +127,7 @@
   <a href="https://www.instagram.com/awjunaid_" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="instagram logo"  />
   </a>
-  <a href="https://www.twitch.tv/awjunaid" target="_blank">
+  <a href="https://x.com/21Phuc19608" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="twitch logo"  />
   </a>
   <a href="mailto:abdulwahabjunaid07@gmail.com" target="_blank">
