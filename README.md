@@ -127,9 +127,6 @@
   <a href="https://www.instagram.com/awjunaid_" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="instagram logo"  />
   </a>
-  <a href="https://x.com/21Phuc19608" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="twitch logo"  />
-  </a>
   <a href="mailto:abdulwahabjunaid07@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="gmail logo"  />
   </a>
@@ -154,16 +151,7 @@
   <a href="https://t.me/aw_junaid" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="telegram logo"  />
   </a>
-  <a href="https://twitter.com/awjunaid_" target="_blank">
+  <a href="https://x.com/21Phuc19608" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="twitter logo"  />
-  </a>
-  <a href="https://whatsapp.com/channel/0029VaCXDFaDJ6H8eKO6bB1p" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="whatsapp logo"  />
-  </a>
-  <a href="https://tryhackme.com/p/abdulwahabjunaid" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="tryhackme logo"  />
-  </a>
-  <a href="https://signal.group/#CjQKIIn4N7hSjCHxyHraz0LMLKOOxHWEM9vj6xrlx9cqLY4KEhD-GB0mJ0Q8Qn5iEB3R1kOk" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Signal&logo=signal&label=&color=039BE5&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="signal logo"  />
   </a>
 </div>
