@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tuannguyenba&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
-<h1 align="center">Hi, I'm Tuan Nguyen Ba <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi, I'm Dinh Ho Phuc Thien <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <h3 align="center">
   <a href="https://git.io/typing-svg">
@@ -10,7 +10,7 @@
 
 <p align="center">
   <samp>
-    Hey, My name is <em>Tuan Nguyen Ba</em>, and I am a final-year student in Telecommunications and Electronics at the University of Science, Ho Chi Minh City. I am deeply passionate about learning new technologies and building innovative solutions. 🚀
+    Hey, My name is <em>Thien Dinh Ho PhucPhuc</em>, and I am a final-year student in Telecommunications and Electronics at the University of Science, Ho Chi Minh City. I am deeply passionate about learning new technologies and building innovative solutions. 🚀
   </samp>
   <br />
 </p>
@@ -74,7 +74,7 @@
 ### 📫 How to reach me? 
 <p align="center">
   ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/tuannguyenba/) 👨🏻‍💻 <br>
-  ⦿ Shoot Me an [Email](mailto:tuan22th4@gmail.com) 💌 <br>
+  ⦿ Shoot Me an [Email](mailto:thiendt310tp@gmail.com) 💌 <br>
 </p>
 
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=monoscope&weight=500&size=30&duration=3000&pause=800&color=60F74D&background=5A56FF00&center=true&vCenter=true&width=435&lines=Thanks%2C+You're+Awesome+%3A)" alt="Typing SVG" /></a></p>
