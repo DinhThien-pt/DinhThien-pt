@@ -1,23 +1,23 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thiendinhhophuc&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dinhhophucthien&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
-<h1 align="center">Hi, I'm Thien Dinh Ho Phuc <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi, I'm Dinh Ho Phuc Thien <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <h3 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=monoscope&weight=500&size=30&duration=3000&pause=800&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Tuan+Nguyen+Ba+;I+hope+you're+doing+well;Enjoy+your+time+%3A)" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=monoscope&weight=500&size=30&duration=3000&pause=800&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Dinh+Ho+Phuc+Thien;I+hope+you're+doing+well;Enjoy+your+time+%3A)" alt="Typing SVG" />
   </a>
 </h3>
 
 <p align="center">
   <samp>
-    Hey, My name is <em>Thien Dinh Ho Phuc</em>, and I am a final-year student in Telecommunications and Electronics at the University of Science, Ho Chi Minh City. I am deeply passionate about learning new technologies and building innovative solutions. 🚀
+    Hey, My name is <em>Dinh Ho Phuc Thien</em>, and I am a final-year student in Telecommunications and Electronics at the University of Science, Ho Chi Minh City. I am deeply passionate about learning new technologies and building innovative solutions. 🚀
   </samp>
   <br />
 </p>
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=tuannguyenba&theme=algolia" alt="GitHub Streak" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=dinhhophucthien&theme=algolia" alt="GitHub Streak" />
   </a>
 </p>
 
@@ -106,11 +106,11 @@
 
 ### 📫 How to reach me? 
 <p align="center">
-  ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/tuannguyenba/) 👨🏻‍💻 <br>
-  ⦿ Shoot Me an [Email](mailto:tuan22th4@gmail.com) 💌 <br>
+  ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/dinhhophucthien/) 👨🏻‍💻 <br>
+  ⦿ Shoot Me an [Email](mailto:dinhhophucthien@gmail.com) 💌 <br>
 </p>
 
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=monoscope&weight=500&size=30&duration=3000&pause=800&color=60F74D&background=5A56FF00&center=true&vCenter=true&width=435&lines=Thanks%2C+You're+Awesome+%3A)" alt="Typing SVG" /></a></p>
 
 #### Thanks for visiting :heart:
-![VisitorCount](https://profile-counter.glitch.me/tuannguyenba/count.svg)
+![VisitorCount](https://profile-counter.glitch.me/dinhhophucthien/count.svg)
