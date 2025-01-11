@@ -139,18 +139,6 @@
   <a href="https://www.facebook.com/inhthien.760985" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="facebook logo"  />
   </a>
-  <a href="https://linktr.ee/awjunaid" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="linktree logo"  />
-  </a>
-  <a href="https://www.patreon.com/awjunaid" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Patreon&logo=patreon&label=&color=F96854&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="patreon logo"  />
-  </a>
-  <a href="https://medium.com/@aw-junaid" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="medium logo"  />
-  </a>
-  <a href="https://t.me/aw_junaid" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="telegram logo"  />
-  </a>
   <a href="https://x.com/21Phuc19608" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="twitter logo"  />
   </a>
