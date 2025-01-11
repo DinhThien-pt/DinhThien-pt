@@ -4,7 +4,7 @@
 
 <h3 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=monoscope&weight=500&size=30&duration=3000&pause=800&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Dinh+Ho+Phuc+Thien;I+hope+you're+doing+well;Enjoy+your+time+%3A)" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=monoscope&weight=500&size=30&duration=3000&pause=800&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Dinh+Thien;I+hope+you're+doing+well;Enjoy+your+time+%3A)" alt="Typing SVG" />
   </a>
 </h3>
 
@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=dinhhophucthien&theme=algolia" alt="GitHub Streak" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=DinhThien-pt&theme=algolia" alt="GitHub Streak" />
   </a>
 </p>
 
