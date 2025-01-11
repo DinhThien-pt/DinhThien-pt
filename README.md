@@ -41,9 +41,6 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
   </a>
-  <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://media.licdn.com/dms/image/D4D12AQEmC2CSTK0unw/article-cover_image-shrink_600_2000/0/1691964348159?e=2147483647&v=beta&t=UA2DD5lAEDP28NHD9BRZIoriUAdwNxY8P465qku8lNY" alt="AWS" width="70" height="50"/>
-  </a>
 </p>
 
 ### 📡 Telecommunications:
@@ -94,6 +91,9 @@
   <a href="https://www.virtualbox.org/" target="_blank">
     <img src="https://github.com/tuan22th4/Images/blob/main/virtual-box.png" width="50" height="50"/>
   </a>
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://media.licdn.com/dms/image/D4D12AQEmC2CSTK0unw/article-cover_image-shrink_600_2000/0/1691964348159?e=2147483647&v=beta&t=UA2DD5lAEDP28NHD9BRZIoriUAdwNxY8P465qku8lNY" alt="AWS" width="70" height="50"/>
+  </a>
 </p>
 
 
@@ -124,9 +124,6 @@
 ###
 
 <div align="left">
-  <a href="https://www.youtube.com/@awjunaid/featured" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="youtube logo"  />
-  </a>
   <a href="https://www.instagram.com/awjunaid_" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="instagram logo"  />
   </a>
