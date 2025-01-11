@@ -92,7 +92,7 @@
     <img src="https://github.com/tuan22th4/Images/blob/main/virtual-box.png" width="50" height="50"/>
   </a>
   <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://media.licdn.com/dms/image/D4D12AQEmC2CSTK0unw/article-cover_image-shrink_600_2000/0/1691964348159?e=2147483647&v=beta&t=UA2DD5lAEDP28NHD9BRZIoriUAdwNxY8P465qku8lNY" alt="AWS" width="70" height="70"/>
+    <img src="https://media.licdn.com/dms/image/D4D12AQEmC2CSTK0unw/article-cover_image-shrink_600_2000/0/1691964348159?e=2147483647&v=beta&t=UA2DD5lAEDP28NHD9BRZIoriUAdwNxY8P465qku8lNY" alt="AWS" width="70" height="50"/>
   </a>
 </p>
 
