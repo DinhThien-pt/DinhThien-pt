@@ -33,6 +33,6 @@ I am a fourth-year student majoring in Telecommunications and Electronics at the
 - Embedded systems, IoT, Robotics, Low-level programming, and Continuous learning.
 
 ## 🌐 Connect with Me
-- **Email:** tuan22th4@gmail.com
+- **Email:** thiendt310tp@gmail.com
 
 ---
