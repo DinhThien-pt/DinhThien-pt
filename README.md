@@ -103,7 +103,7 @@
 ## :zap: Skills
 - *Programming Languages:* Python, C, Java
 - *Telecommunications:* Signal processing, IoT, Embedded systems
-- - *Cloud Computing:* aws introduction
+- *Cloud Computing:* aws introduction
 - *Tools:* MATLAB, Git, Arduino, Proteus, LTspice, FPGA, Linux, Synopsys, CCNA, Simplicity, VirtualBox
 - *Soft Skills:* 🧠 Problem-Solving | 👥 Team Collaboration | 🗣 Communication
 ---
